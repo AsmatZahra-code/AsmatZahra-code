@@ -11,7 +11,7 @@ I'm a passionate developer and DevOps engineer with a strong foundation in cloud
 
 ### 📚 Journey & Expertise
 
-**Cloud & DevOps (Prominent Focus)**
+**Cloud & DevOps (Current Focus)**
 - ☁️ **Cloud Architecture (AWS)** - Designing and deploying infrastructure using AWS services (EC2, S3, RDS, IAM)
 - 🐳 **Containerization & Orchestration** - Docker, Docker Swarm, Kubernetes for deploying scalable services
 - 🔁 **CI/CD & Automation** - Jenkins and GitHub Actions pipelines for automated testing and deployment
@@ -34,9 +34,9 @@ I'm a passionate developer and DevOps engineer with a strong foundation in cloud
 | Category | Technologies |
 |----------|--------------|
 | **Cloud & DevOps** | AWS (EC2, S3, RDS, IAM), Docker, Kubernetes, Docker Swarm, Jenkins, GitHub Actions, Terraform (IaC) |
-| **Backend** | Node.js (Express), Go, REST APIs, GraphQL |
+| **Backend** | Node.js (Express), Go, REST APIs |
 | **Frontend** | React, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS |
-| **Databases** | PostgreSQL, MySQL, MongoDB, Redis |
+| **Databases** | PostgreSQL, MySQL, MongoDB |
 | **Monitoring** | Prometheus, Grafana, Alertmanager |
 | **Version Control** | Git, GitHub, Gerrit |
 | **Operating Systems** | Linux (Ubuntu, CentOS) |
