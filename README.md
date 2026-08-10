@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Asmat Zahra
+## Hi there 👋 I'm Asmat Zahra (CGPA: 3.88)
 
 ### Full-Stack Developer | DevOps Enthusiast | Open Source Contributor
 
@@ -6,15 +6,14 @@
 
 ## 🚀 About Me
 
-I'm a passionate developer and DevOps engineer with a strong foundation in full-stack development and cloud infrastructure. I'm continuously learning and expanding my expertise in modern technologies and best practices.
+I'm a passionate developer and DevOps engineer with a strong foundation in full-stack development and cloud infrastructure. I'm continuously learning and expanding my expertise in modern technologi[...]
 
 ### 📚 Journey & Expertise
 
 **Backend & Web Development**
-- 🎓 **Java Enterprise Applications** - Started in 2nd semester with Java EE, contributed to senior and university projects (Exam Management System)
 - 💼 **MERN Stack** - Completed internship focused on full-stack development
 - 🛍️ **E-Commerce Applications** - Built robust e-commerce solutions
-- 🏢 **Business Nexus** - Developed comprehensive business management application
+- 🏢 **Business Nexus** - Currently working on a comprehensive business management application
 - 🔗 **URL Shortener** - Backend-only service implementation
 
 **Open Source Contributions**
@@ -45,7 +44,7 @@ Currently building deep expertise in:
 
 | Category | Technologies |
 |----------|--------------|
-| **Backend** | Java, JavaScript/Node.js, Go |
+| **Backend** | JavaScript/Node.js, Go |
 | **Frontend** | React, JavaScript, HTML/CSS |
 | **Databases** | SQL, NoSQL |
 | **DevOps & Cloud** | Docker, Kubernetes, AWS, Jenkins, GitHub Actions |
@@ -59,7 +58,7 @@ Currently building deep expertise in:
 
 ```
 Phase 1 ✅ | Phase 2 ✅ | Phase 3 🔄 | Phase 4 🎯
-Java EE    | MERN Stack | DevOps      | Advanced Cloud
+Backend Fundamentals    | MERN Stack | DevOps      | Advanced Cloud
            | Internship | Foundations | Native Tools
            |            |             |
 ```
