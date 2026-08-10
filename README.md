@@ -9,7 +9,7 @@
 I'm a passionate developer and DevOps engineer and currently in the journey of building strong foundation in cloud-native systems, full-stack development, and infrastructure automation. I focus on building reliable, scalable cloud solutions and bringing DevOps best practices into software delivery pipelines. I'm continuously learning and expanding my expertise in modern cloud and DevOps technologies.
 
 
-### 📚 Journey & Expertise
+### 📚 Current Journey & Building Expertise
 
 **Cloud & DevOps (Current Focus)**
 - ☁️ **Cloud Architecture (AWS)** - Designing and deploying infrastructure using AWS services (EC2, S3, RDS, IAM)
@@ -17,14 +17,15 @@ I'm a passionate developer and DevOps engineer and currently in the journey of b
 - 🔁 **CI/CD & Automation** - Jenkins and GitHub Actions pipelines for automated testing and deployment
 - 📊 **Monitoring & Observability** - Prometheus, Grafana, Alertmanager for metrics and alerts
 
+**Open Source Contributions**
+- 🔧 **Gerrit** - 7+ contributions to libreoffice enterprise code review platform
+- 🏆 **Class Rank** - Top of my class (GR) with proven leadership in university projects
+
 **Backend & Web Development**
 - 💼 **MERN Stack** - Completed internship focused on full-stack development
 - 🛍️ **E-Commerce Applications** - Built e-commerce solutions
 - 🏢 **Business Nexus** - Currently working on a comprehensive business management application
-
-**Open Source Contributions**
-- 🔧 **Gerrit** - 7+ contributions to libreoffice enterprise code review platform
-- 🏆 **Class Rank** - Top of my class (GR) with proven leadership in university projects
+- - 🏢 **GrocerApp** - A Grocery Application in React native.
 
 ---
 
@@ -37,7 +38,7 @@ I'm a passionate developer and DevOps engineer and currently in the journey of b
 | **Frontend** | React, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS |
 | **Databases** | PostgreSQL, MySQL, MongoDB |
 | **Monitoring** | Prometheus, Grafana, Alertmanager |
-| **Version Control** | Git, GitHub, Gerrit |
+| **Version Control** | Git, GitHub |
 | **Operating Systems** | Linux (Ubuntu, CentOS) |
 
 ---
