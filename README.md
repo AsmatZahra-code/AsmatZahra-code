@@ -25,7 +25,7 @@ I'm a passionate developer and DevOps engineer and currently in the journey of b
 - 💼 **MERN Stack** - Completed internship focused on full-stack development
 - 🛍️ **E-Commerce Applications** - Built e-commerce solutions
 - 🏢 **Business Nexus** - Currently working on a comprehensive business management application
-- - 🏢 **GrocerApp** - A Grocery Application in React native.
+- 🏢 **GrocerApp** - A Grocery Application in React native.
 
 ---
 
