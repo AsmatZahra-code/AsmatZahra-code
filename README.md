@@ -59,12 +59,12 @@ Currently building deep expertise in:
 
 ## 🌱 Learning Path
 
-```
-Phase 1 ✅ | Phase 2 ✅ | Phase 3 🔄 | Phase 4 🎯
-Backend Fundamentals    | MERN Stack | DevOps      | Advanced Cloud
-           | Internship | Foundations | Native Tools
-           |            |             |
-```
+| Phase | Status | Focus |
+|-------|:------:|-------|
+| Phase 1 | ✅ | Backend Fundamentals |
+| Phase 2 | ✅ | MERN Stack (Internship) |
+| Phase 3 | 🔄 | DevOps Foundations (Linux, Docker, CI/CD) |
+| Phase 4 | 🎯 | Advanced Cloud & Native Tools (Kubernetes, Go, AWS) |
 
 ---
 
