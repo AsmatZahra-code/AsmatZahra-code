@@ -1,12 +1,15 @@
-## Hi there 👋 I'm Asmat Zahra (CGPA: 3.88)
+## Hi there 👋 I'm Asmat Zahra
 
-### Full-Stack Developer | DevOps Enthusiast | Open Source Contributor
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira%20Code&size=26&duration=3000&pause=1000&color=0f62fe&width=800&height=60&lines=Full-Stack+Developer;DevOps+Enthusiast;Open+Source+Contributor)
+
+**CGPA: 3.88**
 
 ---
 
 ## 🚀 About Me
 
-I'm a passionate developer and DevOps engineer with a strong foundation in full-stack development and cloud infrastructure. I'm continuously learning and expanding my expertise in modern technologi[...]
+I'm a passionate developer and DevOps engineer with a strong foundation in full-stack development and cloud infrastructure. I'm continuously learning and expanding my expertise in modern technologies across web development, cloud, and observability.
+
 
 ### 📚 Journey & Expertise
 
@@ -21,7 +24,7 @@ I'm a passionate developer and DevOps engineer with a strong foundation in full-
 - 🏆 **Class Rank** - Top of my class (GR) with proven leadership in university projects
 
 **DevOps & Infrastructure (Currently Focusing)**
-- 🐧 **Linux** - Deep dive into system administration and management
+- 🐧 **Linux** - System administration and management
 - 🐳 **Docker** - Container fundamentals and advanced concepts
 - 🔄 **Docker Swarm** - Orchestration and scaling
 - 🚀 **CI/CD** - Jenkins and GitHub Actions implementation
@@ -44,13 +47,13 @@ Currently building deep expertise in:
 
 | Category | Technologies |
 |----------|--------------|
-| **Backend** | JavaScript/Node.js, Go |
-| **Frontend** | React, JavaScript, HTML/CSS |
-| **Databases** | SQL, NoSQL |
-| **DevOps & Cloud** | Docker, Kubernetes, AWS, Jenkins, GitHub Actions |
-| **Monitoring** | Prometheus, Grafana |
+| **Backend** | Node.js (Express), Go, REST APIs, GraphQL |
+| **Frontend** | React, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS |
+| **Databases** | PostgreSQL, MySQL, MongoDB, Redis |
+| **DevOps & Cloud** | Docker, Kubernetes, Docker Swarm, AWS (EC2, S3, RDS), Jenkins, GitHub Actions |
+| **Monitoring** | Prometheus, Grafana, Alertmanager |
 | **Version Control** | Git, GitHub, Gerrit |
-| **Operating Systems** | Linux |
+| **Operating Systems** | Linux (Ubuntu, CentOS) |
 
 ---
 
