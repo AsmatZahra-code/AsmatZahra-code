@@ -1,17 +1,21 @@
 ## Hi there 👋 I'm Asmat Zahra
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira%20Code&size=26&duration=3000&pause=1000&color=0f62fe&width=800&height=60&lines=Full-Stack+Developer;DevOps+Enthusiast;Open+Source+Contributor)
-
-**CGPA: 3.88**
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira%20Code&size=26&duration=3000&pause=1000&color=0f62fe&width=800&height=60&lines=Cloud+%26+DevOps+Engineer;Full-Stack+Developer;Open+Source+Contributor;CGPA%3A+3.88)
 
 ---
 
 ## 🚀 About Me
 
-I'm a passionate developer and DevOps engineer with a strong foundation in full-stack development and cloud infrastructure. I'm continuously learning and expanding my expertise in modern technologies across web development, cloud, and observability.
+I'm a passionate developer and DevOps engineer with a strong foundation in cloud-native systems, full-stack development, and infrastructure automation. I focus on building reliable, scalable cloud solutions and bringing DevOps best practices into software delivery pipelines. I'm continuously learning and expanding my expertise in modern cloud and DevOps technologies.
 
 
 ### 📚 Journey & Expertise
+
+**Cloud & DevOps (Prominent Focus)**
+- ☁️ **Cloud Architecture (AWS)** - Designing and deploying infrastructure using AWS services (EC2, S3, RDS, IAM)
+- 🐳 **Containerization & Orchestration** - Docker, Docker Swarm, Kubernetes for deploying scalable services
+- 🔁 **CI/CD & Automation** - Jenkins and GitHub Actions pipelines for automated testing and deployment
+- 📊 **Monitoring & Observability** - Prometheus, Grafana, Alertmanager for metrics and alerts
 
 **Backend & Web Development**
 - 💼 **MERN Stack** - Completed internship focused on full-stack development
@@ -23,34 +27,16 @@ I'm a passionate developer and DevOps engineer with a strong foundation in full-
 - 🔧 **Gerrit** - 7+ contributions to this enterprise code review platform
 - 🏆 **Class Rank** - Top of my class (GR) with proven leadership in university projects
 
-**DevOps & Infrastructure (Currently Focusing)**
-- 🐧 **Linux** - System administration and management
-- 🐳 **Docker** - Container fundamentals and advanced concepts
-- 🔄 **Docker Swarm** - Orchestration and scaling
-- 🚀 **CI/CD** - Jenkins and GitHub Actions implementation
-- ☁️ **AWS** - Cloud infrastructure and services
-- 📊 **Monitoring & Observability** - Grafana, Prometheus
-- ⚙️ **Kubernetes** - Container orchestration platform
-- 🔵 **Go** - Systems programming language
-
-### 🎯 Current Focus
-
-Currently building deep expertise in:
-- **Kubernetes** - Advanced orchestration and management
-- **Go Programming** - Systems and cloud-native development
-- **AWS** - Cloud architecture and deployment
-- **Prometheus & Grafana** - Comprehensive monitoring solutions
-
 ---
 
 ## 💡 Skills & Technologies
 
 | Category | Technologies |
 |----------|--------------|
+| **Cloud & DevOps** | AWS (EC2, S3, RDS, IAM), Docker, Kubernetes, Docker Swarm, Jenkins, GitHub Actions, Terraform (IaC) |
 | **Backend** | Node.js (Express), Go, REST APIs, GraphQL |
 | **Frontend** | React, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS |
 | **Databases** | PostgreSQL, MySQL, MongoDB, Redis |
-| **DevOps & Cloud** | Docker, Kubernetes, Docker Swarm, AWS (EC2, S3, RDS), Jenkins, GitHub Actions |
 | **Monitoring** | Prometheus, Grafana, Alertmanager |
 | **Version Control** | Git, GitHub, Gerrit |
 | **Operating Systems** | Linux (Ubuntu, CentOS) |
@@ -70,7 +56,7 @@ Currently building deep expertise in:
 
 ## 📫 Let's Connect!
 
-- 💼 Open to collaborations on DevOps, backend development, and cloud infrastructure projects
+- 💼 Open to collaborations on Cloud, DevOps, backend development, and infrastructure projects
 - 🤝 Interested in contributing to more open-source projects
 - 📧 Feel free to reach out for discussions on distributed systems, containerization, and cloud architecture
 
