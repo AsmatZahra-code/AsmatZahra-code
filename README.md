@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate developer and DevOps engineer with a strong foundation in cloud-native systems, full-stack development, and infrastructure automation. I focus on building reliable, scalable cloud solutions and bringing DevOps best practices into software delivery pipelines. I'm continuously learning and expanding my expertise in modern cloud and DevOps technologies.
+I'm a passionate developer and DevOps engineer and currently in the journey of building strong foundation in cloud-native systems, full-stack development, and infrastructure automation. I focus on building reliable, scalable cloud solutions and bringing DevOps best practices into software delivery pipelines. I'm continuously learning and expanding my expertise in modern cloud and DevOps technologies.
 
 
 ### 📚 Journey & Expertise
@@ -19,12 +19,11 @@ I'm a passionate developer and DevOps engineer with a strong foundation in cloud
 
 **Backend & Web Development**
 - 💼 **MERN Stack** - Completed internship focused on full-stack development
-- 🛍️ **E-Commerce Applications** - Built robust e-commerce solutions
+- 🛍️ **E-Commerce Applications** - Built e-commerce solutions
 - 🏢 **Business Nexus** - Currently working on a comprehensive business management application
-- 🔗 **URL Shortener** - Backend-only service implementation
 
 **Open Source Contributions**
-- 🔧 **Gerrit** - 7+ contributions to this enterprise code review platform
+- 🔧 **Gerrit** - 7+ contributions to libreoffice enterprise code review platform
 - 🏆 **Class Rank** - Top of my class (GR) with proven leadership in university projects
 
 ---
@@ -48,7 +47,7 @@ I'm a passionate developer and DevOps engineer with a strong foundation in cloud
 | Phase | Status | Focus |
 |-------|:------:|-------|
 | Phase 1 | ✅ | Backend Fundamentals |
-| Phase 2 | ✅ | MERN Stack (Internship) |
+| Phase 2 | ✅ | MERN Stack, React native |
 | Phase 3 | 🔄 | DevOps Foundations (Linux, Docker, CI/CD) |
 | Phase 4 | 🎯 | Advanced Cloud & Native Tools (Kubernetes, Go, AWS) |
 
