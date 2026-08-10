@@ -1,8 +1,8 @@
-## Hi there 👋 I'm Asmat Zahra
+##  👋 Asmat Zahra
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira%20Code&size=26&duration=3000&pause=1000&color=0f62fe&width=800&height=60&lines=Cloud+%26+DevOps+Engineer;Full-Stack+Developer;Open+Source+Contributor;CGPA%3A+3.88)
 
----
+
 
 ## 🚀 About Me
 
